@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ASP.NET(C#)**
 
-- 💬 Ask me about **PHP** **JS** **C#**
+- 💬 Ask me about **PHP** **JS**
 
 - 📫 How to reach me **slymanalsaya@gmail.com**
 
