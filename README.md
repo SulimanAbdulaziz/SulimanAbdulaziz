@@ -24,9 +24,4 @@
 <p><a href="https://www.buymeacoffee.com/Suliman61"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Suliman61" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulimanabdulaziz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sulimanabdulaziz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulimanabdulaziz&show_icons=true&theme=dark&locale=en" alt="sulimanabdulaziz" /></p>
-
-
 
