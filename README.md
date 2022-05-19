@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/isuliman61" target="blank"><img src="https://img.shields.io/twitter/follow/isuliman61?logo=twitter&style=for-the-badge" alt="isuliman61" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET(C#)**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **PHP** **JS**
+- 💬 Ask me about **PHP** **JS** **Asp.net**
 
 - 📫 How to reach me **slymanalsaya@gmail.com**
 
