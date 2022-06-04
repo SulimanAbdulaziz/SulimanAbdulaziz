@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **PHP** **JS** **Asp.net**
 
-- 📫 How to reach me **slymanalsaya@gmail.com**
+- 📫 How to reach me **SulimanAbdulaziz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
