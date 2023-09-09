@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 
-- 🌱 I’m currently learning **DevOps **and **DevSecOps**
+- 🌱 I’m currently learning **DevOps ** and **DevSecOps**
 
 - 💬 Ask me about **JS/TS** and **Asp.net**
 
